@@ -1,7 +1,28 @@
-#skyline {
-    width: 100%;
+* {
+    text-decoration: none;
 }
 
-.container-fluid {
-    border: 3px solid black;
+body {
+  font-family: Arial;
+  font-size: 12px;
+}
+
+.top {
+    position: relative;
+}
+
+#skyline {
+  width: 100%;
+}
+
+#logo {
+  width: 7%;
+  position: absolute;
+  left: 10%;
+  bottom: -10%;
+  border: 4px solid white;
+}
+
+#tiy {
+    font-size: 14px;
 }
