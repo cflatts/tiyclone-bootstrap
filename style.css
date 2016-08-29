@@ -26,3 +26,38 @@ body {
 #tiy {
     font-size: 14px;
 }
+
+.boxPosting {
+    border: 1px solid black;
+}
+
+#posting {
+    width: 20%;
+    margin: 0 auto;
+    padding: 0;
+    position: fixed;
+    right: 5%;
+    bottom: 15%;
+}
+
+#bottomBox {
+    width: 100%;
+}
+
+#info-pic {
+    display: inline-block;
+    width: 15%;
+    height: auto;
+    margin: 3px;
+}
+
+#insideBox {
+    line-height: 50%;
+    display: inline-block;
+    margin: 5px 3px 3px 3px;
+}
+
+
+#follow-button {
+    display: inline-block;
+}
